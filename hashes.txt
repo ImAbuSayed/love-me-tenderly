@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Love Me Tenderly
+
+This log tracks the cryptographic history and versioning for the song **Love Me Tenderly** (love-me-tenderly).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-30T19:01:17.622948 | `v1` | `93a9d3531eb387671fada32fceb1083bd3f1d394595e06cb85300ea10c234768` | `c5468b287606f73b8f153bcb99312a8da72bbb2c6b798908329a9b427781242f` | `2026-05-30_love-me-tenderly-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

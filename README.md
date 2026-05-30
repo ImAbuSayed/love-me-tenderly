@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/love-me-tenderly/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Love Me Tenderly](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-me-tenderly/) |
+| **Get License** | [Secure Licensing Rights for Love Me Tenderly](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-me-tenderly/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `93a9d3531eb387671fada32fceb1083bd3f1d394595e06cb85300ea10c234768` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
